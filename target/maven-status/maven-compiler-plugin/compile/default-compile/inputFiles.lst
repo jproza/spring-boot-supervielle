@@ -1,0 +1,16 @@
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/Telefono.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/service/impl/PersonaServiceImpl.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/SpringBootH2CRUDApplication.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/service/PersonaService.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/TipoDocumento.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/Genero.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/controller/PersonaController.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/controller/DefaultController.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/config/CORSFilter.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/config/OpenAPIConfig.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/repository/PersonaRepository.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/Pais.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/Direccion.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/utils/HelperUtil.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/InformacionContacto.java
+/Users/jproza/proyectos/spring-boot-supervielle/src/main/java/com/spring/crud/supervielle/model/persona/Persona.java
